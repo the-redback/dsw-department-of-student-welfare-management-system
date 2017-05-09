@@ -1,0 +1,40 @@
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\bin\Debug\DSW Management System.exe.config
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\bin\Debug\DSW Management System.exe
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\bin\Debug\DSW Management System.pdb
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\bin\Debug\MySql.Data.dll
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\bin\Debug\MySql.Web.dll
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.about.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Certificates.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Dashboard.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.DashboardMini.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Login.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.offenses.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Properties.Resources.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.search.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Settings.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.studentEntry.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.verdict.resources
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW Management System.csproj.GenerateResource.Cache
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW Management System.exe
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW Management System.pdb
+C:\Users\Maruf\documents\visual studio 2012\Projects\DSW Management System\DSW Management System\obj\Debug\DSW Management System.csprojResolveAssemblyReference.cache
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\bin\Debug\DSW Management System.exe.config
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW Management System.exe
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW Management System.pdb
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\bin\Debug\DSW Management System.exe
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\bin\Debug\DSW Management System.pdb
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\bin\Debug\MySql.Data.dll
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\bin\Debug\MySql.Web.dll
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW Management System.csprojResolveAssemblyReference.cache
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.about.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Certificates.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Dashboard.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.DashboardMini.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Login.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.offenses.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Properties.Resources.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.search.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.Settings.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.studentEntry.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW_Management_System.verdict.resources
+H:\Project_Archive\DSW Management System\Source Code [C# Project]\DSW Management System\DSW Management System\obj\Debug\DSW Management System.csproj.GenerateResource.Cache
